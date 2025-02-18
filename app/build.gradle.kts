@@ -41,6 +41,7 @@ android {
 
 dependencies {
 
+    // ImagePickerAndroid
     implementation(libs.image.picker.android)
     implementation(libs.appcompat)
     implementation(libs.material)
