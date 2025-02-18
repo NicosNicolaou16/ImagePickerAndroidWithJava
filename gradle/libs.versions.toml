@@ -12,6 +12,8 @@ kotlin = "2.1.10"
 coreKtx = "1.15.0"
 
 [libraries]
+# ImagePickerAndroid
+image-picker-android = { group = "com.github.NicosNicolaou16", name = "ImagePickerAndroid", version.ref = "imagePickerAndroid" }
 junit = { group = "junit", name = "junit", version.ref = "junit" }
 ext-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
 espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
@@ -19,7 +21,6 @@ appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "a
 material = { group = "com.google.android.material", name = "material", version.ref = "material" }
 activity = { group = "androidx.activity", name = "activity", version.ref = "activity" }
 constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
-image-picker-android = { group = "com.github.NicosNicolaou16", name = "ImagePickerAndroid", version.ref = "imagePickerAndroid" }
 core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
 
 [plugins]
