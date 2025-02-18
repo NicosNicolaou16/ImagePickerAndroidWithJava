@@ -5,6 +5,7 @@ plugins {
 
 android {
     namespace = "com.nicos.imagepickerandroidjava"
+    buildToolsVersion = "35.0.0"
     compileSdk = 35
 
     defaultConfig {
