@@ -1,6 +1,6 @@
 # ImagePickerAndroid Java Example
 
-This project is an example of my library, ImagePickerAndroid, implemented in Java.
+This project is an example of my library, ImagePickerAndroid, implemented in Java in an activity.
 
 > [!IMPORTANT]  
 > Check my library :point_right: [ImagePickerAndroid](https://github.com/NicosNicolaou16/ImagePickerAndroid) :point_left: <br />
