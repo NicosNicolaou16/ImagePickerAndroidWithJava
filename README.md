@@ -12,4 +12,4 @@ This project is an example of my library, ImagePickerAndroid, implemented in Jav
 Target SDK version: 35 <br />
 Minimum SDK version: 28 <br />
 Kotlin version: 2.1.20 <br />
-Gradle version: 8.9.1 <br />
+Gradle version: 8.9.2 <br />
