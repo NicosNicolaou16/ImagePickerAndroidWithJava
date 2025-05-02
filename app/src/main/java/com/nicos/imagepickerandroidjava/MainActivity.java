@@ -62,6 +62,7 @@ public class MainActivity extends AppCompatActivity implements ImagePickerInterf
                 true, // optional, by default is false
                 true, // optional, by default is false
                 true, // optional, by default is false
+                false, // optional, by default is true
                 this // call back interface
         );
         imagePicker.initPickSingleImageFromGalleryResultLauncher();
@@ -131,6 +132,11 @@ public class MainActivity extends AppCompatActivity implements ImagePickerInterf
 
     @Override
     public void onCameraImage(@Nullable Bitmap bitmap) {
+
+    }
+
+    @Override
+    public void onPermanentCameraPermissionDenied() {
 
     }
 }
