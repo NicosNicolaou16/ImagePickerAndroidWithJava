@@ -11,5 +11,5 @@ This project is an example of my library, ImagePickerAndroid, implemented in Jav
 # Versioning
 Target SDK version: 36 <br />
 Minimum SDK version: 28 <br />
-Kotlin version: 2.2.0 <br />
-Gradle version: 8.12.0 <br />
+Kotlin version: 2.3.0 <br />
+Gradle version: 8.13.2 <br />
