@@ -8,8 +8,9 @@ This project is an example of my library, ImagePickerAndroid, implemented in Jav
 > [!IMPORTANT]  
 > Check my article with the implementation :point_right: [ImagePickerAndroid - My Android Image Picker Library 🧑‍💻 - Medium](https://medium.com/@nicosnicolaou/imagepickerandroid-my-android-image-picker-library-d1ac86c60e3a) :point_left: <br />
 
-# Versioning
-Target SDK version: 36 <br />
-Minimum SDK version: 28 <br />
-Kotlin version: 2.3.0 <br />
-Gradle version: 8.13.2 <br />
+## 🔧 Versioning
+
+*   **Target SDK**: `36`
+*   **Minimum SDK**: `28`
+*   **Kotlin Version**: `2.3.10`
+*   **Gradle Version**: `9.0.0`
