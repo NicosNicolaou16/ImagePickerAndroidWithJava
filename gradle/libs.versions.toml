@@ -9,7 +9,7 @@ activity = "1.13.0"
 constraintlayout = "2.2.1"
 imagePickerAndroid = "2.5.3"
 kotlin = "2.3.20"
-coreKtx = "1.17.0"
+coreKtx = "1.18.0"
 
 [libraries]
 # ImagePickerAndroid
