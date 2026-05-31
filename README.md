@@ -22,7 +22,7 @@ This project is an example of my library, ImagePickerAndroid, implemented in Jav
 ## 🔧 Versioning
 
 *   **ImagePickerAndroid Version**: `2.5.6`
-*   **Target SDK**: `36`
+*   **Target SDK**: `37`
 *   **Minimum SDK**: `28`
 *   **Kotlin Version**: `2.3.20`
 *   **Gradle Version**: `9.1.1`
