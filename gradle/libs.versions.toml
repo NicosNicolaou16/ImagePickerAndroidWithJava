@@ -7,7 +7,7 @@ appcompat = "1.7.1"
 material = "1.14.0"
 activity = "1.13.0"
 constraintlayout = "2.2.1"
-imagePickerAndroid = "2.5.6"
+imagePickerAndroid = "2.5.8"
 kotlin = "2.4.0"
 coreKtx = "1.19.0"
 
