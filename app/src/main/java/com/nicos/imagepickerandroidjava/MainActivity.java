@@ -56,9 +56,9 @@ public class MainActivity extends AppCompatActivity implements ImagePickerInterf
                 this, //activity instance
                 null, // fragment instance
                 LifecycleOwnerKt.getLifecycleScope(this), // mandatory - coroutine scope from activity or fragment
-                new ScaleBitmapModel(100, 100), // optional, change the scale for image, by default is null
-                new ScaleBitmapModel(100, 100), // optional, change the scale for image, by default is null
-                new ScaleBitmapModel(100, 100), // optional, change the scale for image, by default is null
+                new ScaleBitmapModel(100, 100, false), // optional, change the scale for image, by default is null
+                new ScaleBitmapModel(100, 100, false), // optional, change the scale for image, by default is null
+                new ScaleBitmapModel(100, 100, false), // optional, change the scale for image, by default is null
                 true, // optional, by default is false
                 true, // optional, by default is false
                 true, // optional, by default is false
